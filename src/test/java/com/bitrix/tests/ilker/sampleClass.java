@@ -1,4 +1,4 @@
-package com.bitrix.ilker;
+package com.bitrix.tests.ilker;
 
 public class sampleClass {
     public static void main(String[] args) {
